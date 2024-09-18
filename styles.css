@@ -10,7 +10,8 @@
     color: #DAFF01;
 }
 
-.produtos-bombando div a{
+.produtos-bombando div a, .novidades div button{
     border-color: #9353ff;
     background-color: #9353ff;
+    color: white;
 }

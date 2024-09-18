@@ -1,6 +1,10 @@
-# Meteora - E-commerce de Moda
-
 ![Logo da Loja Meteora](./assets/logo-meteora.png)
+
+![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+) ![Logo CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+) ![Logo do Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+)
+
 
 Este projeto é uma landing page para a loja **Meteora**, um e-commerce voltado para moda com uma coleção atemporal. O site apresenta produtos como bolsas, calçados, camisetas, jaquetas e muito mais. O projeto foi desenvolvido utilizando **HTML**, **CSS** e o framework **Bootstrap** para garantir uma interface responsiva e atraente.
 
@@ -17,7 +21,7 @@ Este projeto é uma landing page para a loja **Meteora**, um e-commerce voltado 
 
 - **HTML5**: Para a estrutura do conteúdo.
 - **CSS3**: Para estilização e layout.
-- **Bootstrap 5**: Para a responsividade e componentes prontos.
+- **Bootstrap**: Para a responsividade e componentes prontos.
 - **Bootstrap Icons**: Utilizados para adicionar ícones ao site.
 
 ## Estrutura do Projeto
@@ -32,4 +36,4 @@ Este projeto é uma landing page para a loja **Meteora**, um e-commerce voltado 
 2. Abra o arquivo `index.html` em seu navegador de preferência.
 
 ```bash
-git clone https://github.com/seu-usuario/meteoara.git
+git clone https://github.com/GuiBarbosa13/meteorabootstrap.git

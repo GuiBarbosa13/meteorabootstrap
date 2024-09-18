@@ -30,6 +30,12 @@ Este projeto é uma landing page para a loja **Meteora**, um e-commerce voltado 
 - `styles.css`: Arquivo de estilo personalizado para a página.
 - `/assets`: Pasta que contém imagens usadas no projeto, como o logo, banners e fotos dos produtos.
 
+## Deploy do Projeto
+
+Clique no link abaixo para acessar o projeto online:
+
+[Link para o Deploy](https://meteora-cyan.vercel.app/)
+
 ## Como Executar o Projeto
 
 1. Clone o repositório ou faça o download dos arquivos.
